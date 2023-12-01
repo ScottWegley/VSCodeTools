@@ -27,7 +27,7 @@
         {
             "type": "shell",
             "label": "Clean up C++ workplace",
-            "command": "C:\\Code\\VS Code Tools\\CPP_Cleaner\\cleaner.bat",
+            "command": "C:\\Code\\VSCodeTools\\CPP_Cleaner\\cleaner.bat",
             "args": [
                 "${fileDirname}"
             ],
